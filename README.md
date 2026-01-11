@@ -5,4 +5,6 @@ Got the api though ssl bypassed apk
 
 Remember it's just base check nothing special, if u know how to improve do it on your own. 
 
+> If u have problems or need help or have questions make an issue or Dm me on telegram @mssdk 
+
 # ***All for educational purposes only!*** ⚠️
