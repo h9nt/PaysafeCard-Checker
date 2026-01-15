@@ -8,3 +8,6 @@ Remember it's just base check nothing special, if u know how to improve do it on
 > If u have problems or need help or have questions make an issue or Dm me on telegram @mssdk 
 
 # ***All for educational purposes only!*** ⚠️
+
+
+For The Latest Paysafe Login checkout my latest repo: https://github.com/h9nt/Paysafe-Login/tree/main
